@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "@koa/router": "^10.0.0",
+    "@types/koa": "^2.13.0",
+    "@types/koa__cors": "^3.0.2",
+    "@types/koa__router": "^8.0.4",
+    "@types/mongoose": "^5.10.3",
+    "@types/node": "^14.14.31",
+    "ethers": "^5.0.31",
+    "koa": "^2.13.1",
+    "mongoose": "^5.11.18",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  },
+  "scripts": {
+    "start": "ts-node server.ts"
+  }
+}
