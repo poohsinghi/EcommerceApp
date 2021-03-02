@@ -3,7 +3,7 @@ import Router from "@koa/router";
 import cors from "@koa/cors";
 import {Payment} from "./db";
 const ethers = require('ethers')
-import PaymentProcessor from "../build/contracts/PaymentProcessor.json";
+import PaymentProcessor from "../frontend/src/contracts/PaymentProcessor.json";
 
 const app = new Koa();
 const router = new Router();
