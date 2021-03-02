@@ -1,3 +1,3 @@
 # EcommerceApp
 
-### A Ecommerce App for buy items using DAI (a decentralized cryptocurrency built on Ethereum)
+### A Ecommerce App for buying items using DAI (a decentralized cryptocurrency built on Ethereum)
